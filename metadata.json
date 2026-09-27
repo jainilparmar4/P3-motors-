@@ -1,0 +1,6 @@
+{
+  "name": "P3 Motors - Car Garage & Service Center",
+  "description": "P3 Motors offers complete automotive care, periodic car servicing, computerized engine diagnostics, denting-painting, AC repair, and 24/7 breakdown assistance. Contact: 9727200087.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
